@@ -1,0 +1,4 @@
+paddlepaddle
+paddlenlp
+pytest
+torch
