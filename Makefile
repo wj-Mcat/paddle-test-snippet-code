@@ -4,4 +4,4 @@ test:
 	pytest tests/
 
 install:
-	pip install -r requriements.txt
+	pip install -r requirements.txt
